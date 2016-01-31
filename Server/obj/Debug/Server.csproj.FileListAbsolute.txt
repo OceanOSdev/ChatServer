@@ -1,0 +1,9 @@
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\Server\bin\Debug\Server.exe.config
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\Server\bin\Debug\Server.exe
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\Server\bin\Debug\Server.pdb
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\Server\obj\Debug\Server.exe
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\Server\obj\Debug\Server.pdb
+C:\Users\Thomas\Source\Repos\ChatServer\Server\bin\Debug\Server.exe.config
+C:\Users\Thomas\Source\Repos\ChatServer\Server\obj\Debug\Server.exe
+C:\Users\Thomas\Source\Repos\ChatServer\Server\obj\Debug\Server.pdb

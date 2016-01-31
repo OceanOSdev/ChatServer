@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" FocusManager.FocusedElement="{Binding ElementName=txtIn}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Hello" x:Name="lblMessage"/>
+        <TextBox x:Name="txtChat" Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="1" IsReadOnly="True"/>
+        <TextBox Name="txtIn" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2"/>
+        <Button Grid.Column="2" Content="Enter" Grid.Row="2" IsDefault="True" TabIndex="0" Click="Button_Click"/>
+    </Grid>
+</Window>

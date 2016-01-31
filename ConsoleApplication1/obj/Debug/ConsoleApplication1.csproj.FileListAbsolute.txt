@@ -1,0 +1,5 @@
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

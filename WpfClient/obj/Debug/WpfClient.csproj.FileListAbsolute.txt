@@ -1,0 +1,14 @@
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\App.g.cs
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\Thomas\Desktop\23-0123-0047 VB\SimpleChat\WpfClient\obj\Debug\WpfClient.pdb
